@@ -1,5 +1,12 @@
-## Hi there 👋
+# I'm Daniel Zapata
 
+I've been programming since I was a kid, and I'm always trying to learn how to do it better by starting some new project.
+
+I've been in startups for the last 12 years and as a result the list of technologies I've used is long, but most recently I've been interested in Rust and Zig.
+
+I'm currently available for hire on either a full-time or contract basis.
+
+You can email my personally managed mailserver at daniel _at_ zapatas `dot` xyz
 <!--
 **Tenari/Tenari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
