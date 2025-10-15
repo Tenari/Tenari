@@ -2,7 +2,7 @@
 
 I've been programming since I was a kid, and I'm always trying to learn how to do it better by starting some new project.
 
-I've been in startups for the last 12 years and as a result the list of technologies I've used is long, but most recently I've been interested in Rust and Zig.
+I've been in startups since 2013 and as a result the list of technologies I've used is long, but most recently I've been interested in good old C.
 
 You can email my personally managed mailserver at daniel _at_ zapatas `dot` xyz
 <!--
